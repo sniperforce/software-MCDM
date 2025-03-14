@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+
+!controllers/
+!methods/
+!utils/
+!views/
